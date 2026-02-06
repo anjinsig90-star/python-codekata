@@ -3,7 +3,7 @@
 # 문제 링크: https://school.programmers.co.kr/learn/courses/30/lessons/120831
 # 알고리즘: 기초
 # 작성자: 안진식
-# 작성일: 2026. 02. 06. 09:56:57
+# 작성일: 2026. 02. 06. 09:57:22
 
 def solution(n):
     total=0
