@@ -3,7 +3,7 @@
 # 문제 링크: https://school.programmers.co.kr/learn/courses/30/lessons/120889
 # 알고리즘: 기초
 # 작성자: 안진식
-# 작성일: 2026. 02. 11. 09:48:32
+# 작성일: 2026. 02. 11. 09:49:54
 
 def solution(sides):
     sides.sort()
