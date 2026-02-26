@@ -3,7 +3,7 @@
 # 문제 링크: https://school.programmers.co.kr/learn/courses/30/lessons/120809
 # 알고리즘: 기초
 # 작성자: 안진식
-# 작성일: 2026. 02. 26. 09:49:20
+# 작성일: 2026. 02. 26. 09:49:46
 
 def solution(numbers):
     return [i*2 for i in numbers]
